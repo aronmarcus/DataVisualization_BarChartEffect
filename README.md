@@ -4,7 +4,7 @@
  ![](https://github.com/aronmarcus/DataVisualization_BarChartEffect/blob/main/D3jsEffect/img/d3.gif)
 
 
-- <p>Hacks:</p>
+- <p>Tools:</p>
 
      - [x] <strong>Windows 10 - 64 bits</strong>
      - [x] <strong>Intel(R) Core(TM) i7</strong>
